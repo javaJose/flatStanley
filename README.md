@@ -12,4 +12,4 @@
 *  See the city 
 * See the Rocky Mountains
 * then, Go to your computer to see the photos of Flat Stanley at
-[https://github.com/javaJose/flatStanley](https://github.com/javaJose/flatStanley)![](/Users/jg/AtomProjects/flatStanley/flatPhotos/05curvyRoad.jpeg =30x30px;)
+[https://github.com/javaJose/flatStanley](https://github.com/javaJose/flatStanley)![](https://github.com/javaJose/flatStanley/blob/master/flatPhotos/05curvyRoad.jpeg)
